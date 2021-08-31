@@ -28,6 +28,7 @@ Grab-Scrap is a platform/marketplace for manufacturers and consumers from varied
 
 ## _Circular economy_
 Every year, we produce 1.3 billion tonnes of waste, far more than what we could possibly recycle. This has resulted in environmental disasters such as marine pollution, soil degradation, and a lack of sustainable waste disposal process. The majority of our global economy is built on the take-make-waste model rather than circularity. Companies, corporations, governments, and individuals can embrace circularity by forming partnerships to consolidate and then circulate their recyclable garbage. Since circularity should not be limited to a single industry, we created this platform where individuals & vendors from all domains across India can connect and circulate waste for a better environment and sustainable future for us all.
+
 ## _Benefits_
 This platform will act as a crucial link amongst individuals and will pave the way for more garbage recycling.
 With more recyclable waste utilized, the dependence on natural resources is also reduced, resulting in a bigger impact. 
